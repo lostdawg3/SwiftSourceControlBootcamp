@@ -32,6 +32,7 @@
     For the build number the old way to increase the date (ex. 20240903),
         then they would increase the build on every change (ex for 1.0.0 -> build # = 1,2,3,4,5, then reset for 2.0.0),
         and most recently the build number would increase for any change continuously (1...100+) regardless of version
+ "GIT Flow"
  
  COMMIT MESSAGES
  
