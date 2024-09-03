@@ -11,6 +11,9 @@ struct ProfileView: View {
     @State private var isPremium: Bool = true
     var body: some View {
         Text("Lostdawg3")
+            .onAppear {
+                // do something
+            }
     }
 }
 
