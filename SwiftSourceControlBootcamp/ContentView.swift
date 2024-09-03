@@ -22,6 +22,7 @@
  PR Squash and Merge = Squash all commits into ONE and then merge ONE commit (team project)
  BRANCH RULES
  CodeOwners = go to the source in github, go to add file and create a new file -> .github/ -> CODEOWNERS (Swiftful Thinking - How to Add Branch Rules, CodeOwners, Pull Request (video #11, 12:20)
+ PR Templates
  
  COMMIT MESSAGES
  
