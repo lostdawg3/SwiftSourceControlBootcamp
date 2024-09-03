@@ -12,6 +12,7 @@
 		B92E64AC2C8210A7003ACF06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92E64AB2C8210A7003ACF06 /* ContentView.swift */; };
 		B92E64AE2C8210AA003ACF06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92E64AD2C8210AA003ACF06 /* Assets.xcassets */; };
 		B92E64B12C8210AA003ACF06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92E64B02C8210AA003ACF06 /* Preview Assets.xcassets */; };
+		B95283882C85A763001728CC /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95283872C85A763001728CC /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B92E64AB2C8210A7003ACF06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B92E64AD2C8210AA003ACF06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B92E64B02C8210AA003ACF06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B95283872C85A763001728CC /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				B92E64A92C8210A7003ACF06 /* SwiftSourceControlBootcampApp.swift */,
 				B91537A82C83F9B000D8BE65 /* HomeView.swift */,
+				B95283872C85A763001728CC /* SettingsView.swift */,
 				B92E64AB2C8210A7003ACF06 /* ContentView.swift */,
 				B92E64AD2C8210AA003ACF06 /* Assets.xcassets */,
 				B92E64AF2C8210AA003ACF06 /* Preview Content */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B91537A92C83F9B000D8BE65 /* HomeView.swift in Sources */,
+				B95283882C85A763001728CC /* SettingsView.swift in Sources */,
 				B92E64AC2C8210A7003ACF06 /* ContentView.swift in Sources */,
 				B92E64AA2C8210A7003ACF06 /* SwiftSourceControlBootcampApp.swift in Sources */,
 			);
