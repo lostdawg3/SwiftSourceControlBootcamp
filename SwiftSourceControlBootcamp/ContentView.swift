@@ -23,6 +23,8 @@
  BRANCH RULES
  CodeOwners = go to the source in github, go to add file and create a new file -> .github/ -> CODEOWNERS (Swiftful Thinking - How to Add Branch Rules, CodeOwners, Pull Request (video #11, 12:20)
  PR Templates
+ GitIgnore = create a new file called .gitignore
+ Readme = create a new file called README.md (this can be done to projects for project based readme or it can be done for the your whole github readme, depending on where you create the readme file.
  
  COMMIT MESSAGES
  
